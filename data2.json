@@ -1,0 +1,629 @@
+[
+  {
+    "productId": "127933660",
+    "displayName": "Laptop Gamer Asus TUF A15 AMD Ryzen 5 512 GB SSD 8GB RTX3050",
+    "brand": "ASUS",
+    "url": "https://tottus.falabella.com.pe/tottus-pe/product/127933660/laptop-asus-tuf-15-r5-7535hs-512g-ssd-8g-rtx3050?exp=tottus",
+    "mediaUrls": [
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43245134_1/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43245134_2/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43245134_3/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43245134_4/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43245134_5/public"
+    ],
+    "prices": [
+      {
+        "label": "",
+        "icons": "cmr-icon",
+        "symbol": "S/ ",
+        "type": "cmrPrice",
+        "crossed": false,
+        "price": [
+          "2,799"
+        ]
+      },
+      {
+        "label": "",
+        "icons": "",
+        "symbol": "S/ ",
+        "type": "internetPrice",
+        "crossed": false,
+        "price": [
+          "2,899"
+        ]
+      },
+      {
+        "label": "",
+        "icons": "",
+        "symbol": "S/ ",
+        "type": "normalPrice",
+        "crossed": true,
+        "price": [
+          "3,499"
+        ]
+      }
+    ]
+  },
+  {
+    "productId": "123126246",
+    "displayName": "Laptop HP Intel Core i3 1215U 8GB 256GB 14\"",
+    "brand": "HP",
+    "url": "https://tottus.falabella.com.pe/tottus-pe/product/123126246/laptop-hp-ci3-1215u-8gb-256gb?exp=tottus",
+    "mediaUrls": [
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43139113_1/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43139113_2/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43139113_3/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43139113_4/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43139113_5/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43139113_6/public"
+    ],
+    "prices": [
+      {
+        "label": "",
+        "icons": "cmr-icon",
+        "symbol": "S/ ",
+        "type": "cmrPrice",
+        "crossed": false,
+        "price": [
+          "1,379"
+        ]
+      },
+      {
+        "label": "",
+        "icons": "",
+        "symbol": "S/ ",
+        "type": "internetPrice",
+        "crossed": false,
+        "price": [
+          "1,399"
+        ]
+      },
+      {
+        "label": "",
+        "icons": "",
+        "symbol": "S/ ",
+        "type": "normalPrice",
+        "crossed": true,
+        "price": [
+          "1,799"
+        ]
+      }
+    ],
+    "totalReviews": "1",
+    "rating": "5"
+  },
+  {
+    "productId": "126862724",
+    "displayName": "Laptop Asus TUF Gaming F15 I5 12500H 512G 8G RTX3050",
+    "brand": "ASUS",
+    "url": "https://tottus.falabella.com.pe/tottus-pe/product/126862724/laptop-asus-tuf-15-ci5-12500h-512g-8g-rtx3050?exp=tottus",
+    "mediaUrls": [
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43216611_1/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43216611_2/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43216611_3/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43216611_4/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43216611_5/public"
+    ],
+    "prices": [
+      {
+        "label": "",
+        "icons": "cmr-icon",
+        "symbol": "S/ ",
+        "type": "cmrPrice",
+        "crossed": false,
+        "price": [
+          "2,999"
+        ]
+      },
+      {
+        "label": "",
+        "icons": "",
+        "symbol": "S/ ",
+        "type": "internetPrice",
+        "crossed": false,
+        "price": [
+          "3,099"
+        ]
+      },
+      {
+        "label": "",
+        "icons": "",
+        "symbol": "S/ ",
+        "type": "normalPrice",
+        "crossed": true,
+        "price": [
+          "3,999"
+        ]
+      }
+    ]
+  },
+  {
+    "productId": "128006265",
+    "displayName": "Laptop HP AMD Ryzen 5 16GB 512GB + Teclado + Mouse",
+    "brand": "HP",
+    "url": "https://tottus.falabella.com.pe/tottus-pe/product/128006265/laptop-rhp-5-7520u-16gb-512gb-bundle?exp=tottus",
+    "mediaUrls": [
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43248453_1/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43248453_2/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43248453_3/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43248453_4/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43248453_5/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43248453_6/public"
+    ],
+    "prices": [
+      {
+        "label": "",
+        "icons": "cmr-icon",
+        "symbol": "S/ ",
+        "type": "cmrPrice",
+        "crossed": false,
+        "price": [
+          "2,149"
+        ]
+      },
+      {
+        "label": "",
+        "icons": "",
+        "symbol": "S/ ",
+        "type": "internetPrice",
+        "crossed": false,
+        "price": [
+          "2,199"
+        ]
+      },
+      {
+        "label": "",
+        "icons": "",
+        "symbol": "S/ ",
+        "type": "normalPrice",
+        "crossed": true,
+        "price": [
+          "2,399"
+        ]
+      }
+    ]
+  },
+  {
+    "productId": "125187208",
+    "displayName": "Laptop Lenovo Intel Core i3 12va 8GB 512GB 15\" Ideapad Slim3",
+    "brand": "LENOVO",
+    "url": "https://tottus.falabella.com.pe/tottus-pe/product/125187208/laptop-lenovo-ips3-15-ci3-12va-8gb-512ssd?exp=tottus",
+    "mediaUrls": [
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43184817_1/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43184817_2/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43184817_3/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43184817_4/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43184817_5/public"
+    ],
+    "prices": [
+      {
+        "label": "",
+        "icons": "cmr-icon",
+        "symbol": "S/ ",
+        "type": "cmrPrice",
+        "crossed": false,
+        "price": [
+          "1,459"
+        ]
+      },
+      {
+        "label": "",
+        "icons": "",
+        "symbol": "S/ ",
+        "type": "internetPrice",
+        "crossed": false,
+        "price": [
+          "1,499"
+        ]
+      },
+      {
+        "label": "",
+        "icons": "",
+        "symbol": "S/ ",
+        "type": "normalPrice",
+        "crossed": true,
+        "price": [
+          "1,899"
+        ]
+      }
+    ],
+    "totalReviews": "1",
+    "rating": "5"
+  },
+  {
+    "productId": "115860242",
+    "displayName": "Laptop HP Intel Core i5 8GB 512GB 15.6\"",
+    "brand": "HP",
+    "url": "https://tottus.falabella.com.pe/tottus-pe/product/115860242/laptop-hp-ci51235-8gb-512gb?exp=tottus",
+    "mediaUrls": [
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/42867156_1/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/42867156_2/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/42867156_3/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/42867156_4/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/42867156_5/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/42867156_6/public"
+    ],
+    "prices": [
+      {
+        "label": "",
+        "icons": "cmr-icon",
+        "symbol": "S/ ",
+        "type": "cmrPrice",
+        "crossed": false,
+        "price": [
+          "1,999"
+        ]
+      },
+      {
+        "label": "",
+        "icons": "",
+        "symbol": "S/ ",
+        "type": "internetPrice",
+        "crossed": false,
+        "price": [
+          "2,039"
+        ]
+      },
+      {
+        "label": "",
+        "icons": "",
+        "symbol": "S/ ",
+        "type": "normalPrice",
+        "crossed": true,
+        "price": [
+          "2,299"
+        ]
+      }
+    ],
+    "totalReviews": "112",
+    "rating": "4.6964"
+  },
+  {
+    "productId": "125187207",
+    "displayName": "Laptop Lenovo IPS3 15 CI5 12450H 12VA 8GB 512SSD",
+    "brand": "LENOVO",
+    "url": "https://tottus.falabella.com.pe/tottus-pe/product/125187207/laptop-lenovo-ips3-15-ci5-12450h-12va-8gb-512ssd?exp=tottus",
+    "mediaUrls": [
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43184818_1/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43184818_2/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43184818_3/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43184818_4/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43184818_5/public"
+    ],
+    "prices": [
+      {
+        "label": "",
+        "icons": "cmr-icon",
+        "symbol": "S/ ",
+        "type": "cmrPrice",
+        "crossed": false,
+        "price": [
+          "2,049"
+        ]
+      },
+      {
+        "label": "",
+        "icons": "",
+        "symbol": "S/ ",
+        "type": "internetPrice",
+        "crossed": false,
+        "price": [
+          "2,099"
+        ]
+      },
+      {
+        "label": "",
+        "icons": "",
+        "symbol": "S/ ",
+        "type": "normalPrice",
+        "crossed": true,
+        "price": [
+          "2,349"
+        ]
+      }
+    ]
+  },
+  {
+    "productId": "127175353",
+    "displayName": "Laptop HP Victus AMD Ryzen 5 5600H 16GB 512GB 15.6\" RTX3050",
+    "brand": "HP",
+    "url": "https://tottus.falabella.com.pe/tottus-pe/product/127175353/laptop-hp-victus-r5-5600h-16gb-512gb-rtx-3050?exp=tottus",
+    "mediaUrls": [
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43224248_1/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43224248_2/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43224248_3/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43224248_4/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43224248_5/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43224248_6/public"
+    ],
+    "prices": [
+      {
+        "label": "",
+        "icons": "cmr-icon",
+        "symbol": "S/ ",
+        "type": "cmrPrice",
+        "crossed": false,
+        "price": [
+          "3,449"
+        ]
+      },
+      {
+        "label": "",
+        "icons": "",
+        "symbol": "S/ ",
+        "type": "internetPrice",
+        "crossed": false,
+        "price": [
+          "3,549"
+        ]
+      },
+      {
+        "label": "",
+        "icons": "",
+        "symbol": "S/ ",
+        "type": "normalPrice",
+        "crossed": true,
+        "price": [
+          "4,099"
+        ]
+      }
+    ]
+  },
+  {
+    "productId": "120189466",
+    "displayName": "Laptop HP AMD Ryzen 7 7730U 16GB 512GB 15\"",
+    "brand": "HP",
+    "url": "https://tottus.falabella.com.pe/tottus-pe/product/120189466/laptop-hp-r7-7730u-16gb-512gb?exp=tottus",
+    "mediaUrls": [
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43082026_1/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43082026_2/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43082026_3/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43082026_4/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43082026_5/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43082026_6/public"
+    ],
+    "prices": [
+      {
+        "label": "",
+        "icons": "cmr-icon",
+        "symbol": "S/ ",
+        "type": "cmrPrice",
+        "crossed": false,
+        "price": [
+          "2,599"
+        ]
+      },
+      {
+        "label": "",
+        "icons": "",
+        "symbol": "S/ ",
+        "type": "internetPrice",
+        "crossed": false,
+        "price": [
+          "2,699"
+        ]
+      },
+      {
+        "label": "",
+        "icons": "",
+        "symbol": "S/ ",
+        "type": "normalPrice",
+        "crossed": true,
+        "price": [
+          "3,099"
+        ]
+      }
+    ],
+    "totalReviews": "1",
+    "rating": "5"
+  },
+  {
+    "productId": "126862625",
+    "displayName": "Laptop Asus Vivobook 16 R7 7730U 512GSSD 16GB",
+    "brand": "ASUS",
+    "url": "https://tottus.falabella.com.pe/tottus-pe/product/126862625/laptop-asus-16-r7-7730u-512gssd-16gb?exp=tottus",
+    "mediaUrls": [
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43216612_1/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43216612_2/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43216612_3/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43216612_4/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43216612_5/public"
+    ],
+    "prices": [
+      {
+        "label": "",
+        "icons": "cmr-icon",
+        "symbol": "S/ ",
+        "type": "cmrPrice",
+        "crossed": false,
+        "price": [
+          "2,849"
+        ]
+      },
+      {
+        "label": "",
+        "icons": "",
+        "symbol": "S/ ",
+        "type": "internetPrice",
+        "crossed": false,
+        "price": [
+          "2,899"
+        ]
+      },
+      {
+        "label": "",
+        "icons": "",
+        "symbol": "S/ ",
+        "type": "normalPrice",
+        "crossed": true,
+        "price": [
+          "3,499"
+        ]
+      }
+    ]
+  },
+  {
+    "productId": "125187213",
+    "displayName": "Laptop Lenovo IP1 15 R7 5700U 16GB 1TB SSD",
+    "brand": "LENOVO",
+    "url": "https://tottus.falabella.com.pe/tottus-pe/product/125187213/laptop-lenovo-ip1-15-r7-5700u-16gb-1tb-ssd?exp=tottus",
+    "mediaUrls": [
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43184820_1/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43184820_2/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43184820_3/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43184820_4/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43184820_5/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43184820_6/public"
+    ],
+    "prices": [
+      {
+        "label": "",
+        "icons": "cmr-icon",
+        "symbol": "S/ ",
+        "type": "cmrPrice",
+        "crossed": false,
+        "price": [
+          "2,349"
+        ]
+      },
+      {
+        "label": "",
+        "icons": "",
+        "symbol": "S/ ",
+        "type": "internetPrice",
+        "crossed": false,
+        "price": [
+          "2,399"
+        ]
+      },
+      {
+        "label": "",
+        "icons": "",
+        "symbol": "S/ ",
+        "type": "normalPrice",
+        "crossed": true,
+        "price": [
+          "2,799"
+        ]
+      }
+    ]
+  },
+  {
+    "productId": "130166966",
+    "displayName": "Laptop Lenovo LOQ 15.6\" FHD 144 Hz AMD Ryzen™ 7 7840HS 16GB ram 512GB SSD",
+    "brand": "LENOVO",
+    "url": "https://tottus.falabella.com.pe/tottus-pe/product/130166966/laptop-lenovo-loq-15-6-fhd-144-hz-amd-ryzen-7-7840hs-16gb-ram-512gb-ssd?exp=tottus",
+    "mediaUrls": [
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43314988_1/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43314988_2/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43314988_3/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43314988_4/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43314988_5/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43314988_6/public"
+    ],
+    "prices": [
+      {
+        "label": "",
+        "icons": "cmr-icon",
+        "symbol": "S/ ",
+        "type": "cmrPrice",
+        "crossed": false,
+        "price": [
+          "4,599"
+        ]
+      },
+      {
+        "label": "",
+        "icons": "",
+        "symbol": "S/ ",
+        "type": "internetPrice",
+        "crossed": false,
+        "price": [
+          "4,699"
+        ]
+      },
+      {
+        "label": "",
+        "icons": "",
+        "symbol": "S/ ",
+        "type": "normalPrice",
+        "crossed": true,
+        "price": [
+          "4,999"
+        ]
+      }
+    ]
+  },
+  {
+    "productId": "128773454",
+    "displayName": "Laptop Lenovo  LOQ 15 I5-12 8 512 V6G W11  CI5 12VA 8G 512G RTX3050",
+    "brand": "LENOVO",
+    "url": "https://tottus.falabella.com.pe/tottus-pe/product/128773454/laptop-lenovo-gamer-loq-ci5-12va-8g-512g-rtx3050?exp=tottus",
+    "mediaUrls": [
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/falabellaPE/43265451_1/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43265451_1/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43265451_3/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/falabellaPE/43265451_2/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/falabellaPE/43265451_3/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43265451_8/public"
+    ],
+    "prices": [
+      {
+        "label": "",
+        "icons": "cmr-icon",
+        "symbol": "S/ ",
+        "type": "cmrPrice",
+        "crossed": false,
+        "price": [
+          "3,299"
+        ]
+      },
+      {
+        "label": "",
+        "icons": "",
+        "symbol": "S/ ",
+        "type": "internetPrice",
+        "crossed": false,
+        "price": [
+          "3,399"
+        ]
+      },
+      {
+        "label": "",
+        "icons": "",
+        "symbol": "S/ ",
+        "type": "normalPrice",
+        "crossed": true,
+        "price": [
+          "3,499"
+        ]
+      }
+    ]
+  },
+  {
+    "productId": "128773492",
+    "displayName": "Laptop Gamer Lenovo LOQ CI5 12VA 8G 512G RTX2050",
+    "brand": "LENOVO",
+    "url": "https://tottus.falabella.com.pe/tottus-pe/product/128773492/laptop-gamer-lenovo-loq-ci5-12va-8g-512g-rtx2050?exp=tottus",
+    "mediaUrls": [
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/falabellaPE/43265450_1/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/falabellaPE/43265450_2/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/falabellaPE/43265450_3/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/falabellaPE/43265450_4/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/falabellaPE/43265450_5/public",
+      "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/falabellaPE/43265450_6/public"
+    ],
+    "prices": [
+      {
+        "label": "",
+        "icons": "",
+        "symbol": "S/ ",
+        "type": "internetPrice",
+        "crossed": false,
+        "price": [
+          "3,099"
+        ]
+      }
+    ]
+  }
+]

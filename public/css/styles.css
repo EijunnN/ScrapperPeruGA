@@ -1,0 +1,75 @@
+/* Estilos base */
+body {
+  font-family: "Arial", sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+header {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
+
+main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.product-card {
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  margin: 1rem;
+  padding: 1rem;
+  width: 300px;
+}
+
+.product-image {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.product-title {
+  margin: 1rem 0;
+  font-size: 1.2rem;
+}
+
+.product-price {
+  font-size: 1.5rem;
+  color: #e44d26;
+  margin-bottom: 1rem;
+}
+
+#sort-container {
+  margin-top: 20px;
+  text-align: right;
+}
+
+#sort-select {
+  padding: 5px;
+  font-size: 16px;
+}
+
+.product-image {
+  cursor: pointer;
+  transition: opacity 0.3s ease;
+}
+
+.product-image:hover {
+  opacity: 0.8;
+}
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}

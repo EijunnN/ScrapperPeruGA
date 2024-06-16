@@ -1,0 +1,2323 @@
+{
+  "results": [
+    {
+      "productId": "127933660",
+      "skuId": "127933661",
+      "topSpecifications": [],
+      "merchantCategoryId": "J1104010403",
+      "displayName": "Laptop Gamer Asus TUF A15 AMD Ryzen 5 512 GB SSD 8GB RTX3050",
+      "productType": "REGULAR",
+      "viewTemplate": "NORMAL",
+      "url": "https://tottus.falabella.com.pe/tottus-pe/product/127933660/laptop-asus-tuf-15-r5-7535hs-512g-ssd-8g-rtx3050?exp=tottus",
+      "brand": "ASUS",
+      "media": {
+        "id": "127933661",
+        "type": "PRODUCT",
+        "onImageHover": "FETCH_SECOND_IMAGE"
+      },
+      "mediaUrls": [
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43245134_1/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43245134_2/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43245134_3/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43245134_4/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43245134_5/public"
+      ],
+      "discountBadge": {
+        "label": "-23%",
+        "styles": {
+          "backgroundColor": "#EB0029",
+          "textColor": "#ffffff"
+        }
+      },
+      "badges": [],
+      "multipurposeBadges": [],
+      "meatStickers": [],
+      "prices": [
+        {
+          "label": "",
+          "icons": "cmr-icon",
+          "symbol": "S/ ",
+          "type": "cmrPrice",
+          "crossed": false,
+          "price": [
+            "2,699"
+          ]
+        },
+        {
+          "label": "",
+          "icons": "",
+          "symbol": "S/ ",
+          "type": "internetPrice",
+          "crossed": false,
+          "price": [
+            "2,799"
+          ]
+        },
+        {
+          "label": "",
+          "icons": "",
+          "symbol": "S/ ",
+          "type": "normalPrice",
+          "crossed": true,
+          "price": [
+            "3,499"
+          ]
+        }
+      ],
+      "availability": {
+        "homeDeliveryShipping": "",
+        "pickUpFromStoreShipping": "",
+        "internationalShipping": "",
+        "primeShipping": ""
+      },
+      "variants": [
+        {
+          "type": "COLOR",
+          "options": []
+        },
+        {
+          "type": "SIZES",
+          "options": []
+        }
+      ],
+      "sellerId": "TOTTUS_PERU",
+      "sellerName": "TOTTUS",
+      "offeringId": "127933661",
+      "isSponsored": false,
+      "GSCCategoryId": "G19020305"
+    },
+    {
+      "productId": "123126246",
+      "skuId": "123126265",
+      "topSpecifications": [],
+      "merchantCategoryId": "J1104010403",
+      "displayName": "Laptop HP Intel Core i3 1215U 8GB 256GB 14\"",
+      "productType": "REGULAR",
+      "viewTemplate": "NORMAL",
+      "url": "https://tottus.falabella.com.pe/tottus-pe/product/123126246/laptop-hp-ci3-1215u-8gb-256gb?exp=tottus",
+      "brand": "HP",
+      "media": {
+        "id": "123126265",
+        "type": "PRODUCT",
+        "onImageHover": "FETCH_SECOND_IMAGE"
+      },
+      "mediaUrls": [
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43139113_1/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43139113_2/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43139113_3/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43139113_4/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43139113_5/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43139113_6/public"
+      ],
+      "discountBadge": {
+        "label": "-23%",
+        "styles": {
+          "backgroundColor": "#EB0029",
+          "textColor": "#ffffff"
+        }
+      },
+      "badges": [],
+      "multipurposeBadges": [],
+      "meatStickers": [],
+      "prices": [
+        {
+          "label": "",
+          "icons": "cmr-icon",
+          "symbol": "S/ ",
+          "type": "cmrPrice",
+          "crossed": false,
+          "price": [
+            "1,379"
+          ]
+        },
+        {
+          "label": "",
+          "icons": "",
+          "symbol": "S/ ",
+          "type": "internetPrice",
+          "crossed": false,
+          "price": [
+            "1,399"
+          ]
+        },
+        {
+          "label": "",
+          "icons": "",
+          "symbol": "S/ ",
+          "type": "normalPrice",
+          "crossed": true,
+          "price": [
+            "1,799"
+          ]
+        }
+      ],
+      "totalReviews": "1",
+      "rating": "5",
+      "availability": {
+        "homeDeliveryShipping": "",
+        "pickUpFromStoreShipping": "",
+        "internationalShipping": "",
+        "primeShipping": ""
+      },
+      "variants": [
+        {
+          "type": "COLOR",
+          "options": []
+        },
+        {
+          "type": "SIZES",
+          "options": []
+        }
+      ],
+      "sellerId": "TOTTUS_PERU",
+      "sellerName": "TOTTUS",
+      "offeringId": "123126265",
+      "isSponsored": false,
+      "GSCCategoryId": "G19020305"
+    },
+    {
+      "productId": "125187211",
+      "skuId": "125187212",
+      "topSpecifications": [],
+      "merchantCategoryId": "J1104010403",
+      "displayName": "Laptop Lenovo Intel Core i5 16GB 512GB 15.6\" Ideapad Slim3",
+      "productType": "REGULAR",
+      "viewTemplate": "NORMAL",
+      "url": "https://tottus.falabella.com.pe/tottus-pe/product/125187211/laptop-lenovo-ips3-15-ci5-12450h-12va-16g-512ssd?exp=tottus",
+      "brand": "LENOVO",
+      "media": {
+        "id": "125187212",
+        "type": "PRODUCT",
+        "onImageHover": "FETCH_SECOND_IMAGE"
+      },
+      "mediaUrls": [
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43184819_1/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43184819_2/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43184819_3/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43184819_4/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43184819_5/public"
+      ],
+      "discountBadge": {
+        "label": "-31%",
+        "styles": {
+          "backgroundColor": "#EB0029",
+          "textColor": "#ffffff"
+        }
+      },
+      "badges": [],
+      "multipurposeBadges": [],
+      "meatStickers": [],
+      "prices": [
+        {
+          "label": "",
+          "icons": "cmr-icon",
+          "symbol": "S/ ",
+          "type": "cmrPrice",
+          "crossed": false,
+          "price": [
+            "1,799"
+          ]
+        },
+        {
+          "label": "",
+          "icons": "",
+          "symbol": "S/ ",
+          "type": "internetPrice",
+          "crossed": false,
+          "price": [
+            "1,899"
+          ]
+        },
+        {
+          "label": "",
+          "icons": "",
+          "symbol": "S/ ",
+          "type": "normalPrice",
+          "crossed": true,
+          "price": [
+            "2,599"
+          ]
+        }
+      ],
+      "availability": {
+        "homeDeliveryShipping": "",
+        "pickUpFromStoreShipping": "",
+        "internationalShipping": "",
+        "primeShipping": ""
+      },
+      "variants": [
+        {
+          "type": "COLOR",
+          "options": []
+        },
+        {
+          "type": "SIZES",
+          "options": []
+        }
+      ],
+      "sellerId": "TOTTUS_PERU",
+      "sellerName": "TOTTUS",
+      "offeringId": "125187212",
+      "isSponsored": false,
+      "GSCCategoryId": "G19020305"
+    },
+    {
+      "productId": "126862724",
+      "skuId": "126862727",
+      "topSpecifications": [],
+      "merchantCategoryId": "J1104010403",
+      "displayName": "Laptop Asus TUF Gaming F15 I5 12500H 512G 8G RTX3050",
+      "productType": "REGULAR",
+      "viewTemplate": "NORMAL",
+      "url": "https://tottus.falabella.com.pe/tottus-pe/product/126862724/laptop-asus-tuf-15-ci5-12500h-512g-8g-rtx3050?exp=tottus",
+      "brand": "ASUS",
+      "media": {
+        "id": "126862727",
+        "type": "PRODUCT",
+        "onImageHover": "FETCH_SECOND_IMAGE"
+      },
+      "mediaUrls": [
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43216611_1/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43216611_2/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43216611_3/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43216611_4/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43216611_5/public"
+      ],
+      "discountBadge": {
+        "label": "-25%",
+        "styles": {
+          "backgroundColor": "#EB0029",
+          "textColor": "#ffffff"
+        }
+      },
+      "badges": [],
+      "multipurposeBadges": [],
+      "meatStickers": [],
+      "prices": [
+        {
+          "label": "",
+          "icons": "cmr-icon",
+          "symbol": "S/ ",
+          "type": "cmrPrice",
+          "crossed": false,
+          "price": [
+            "2,999"
+          ]
+        },
+        {
+          "label": "",
+          "icons": "",
+          "symbol": "S/ ",
+          "type": "internetPrice",
+          "crossed": false,
+          "price": [
+            "3,099"
+          ]
+        },
+        {
+          "label": "",
+          "icons": "",
+          "symbol": "S/ ",
+          "type": "normalPrice",
+          "crossed": true,
+          "price": [
+            "3,999"
+          ]
+        }
+      ],
+      "availability": {
+        "homeDeliveryShipping": "",
+        "pickUpFromStoreShipping": "",
+        "internationalShipping": "",
+        "primeShipping": ""
+      },
+      "variants": [
+        {
+          "type": "COLOR",
+          "options": []
+        },
+        {
+          "type": "SIZES",
+          "options": []
+        }
+      ],
+      "sellerId": "TOTTUS_PERU",
+      "sellerName": "TOTTUS",
+      "offeringId": "126862727",
+      "isSponsored": false,
+      "GSCCategoryId": ""
+    },
+    {
+      "productId": "128006265",
+      "skuId": "128006268",
+      "topSpecifications": [],
+      "merchantCategoryId": "J1104010403",
+      "displayName": "Laptop HP AMD Ryzen 5 16GB 512GB + Teclado + Mouse",
+      "productType": "REGULAR",
+      "viewTemplate": "NORMAL",
+      "url": "https://tottus.falabella.com.pe/tottus-pe/product/128006265/laptop-rhp-5-7520u-16gb-512gb-bundle?exp=tottus",
+      "brand": "HP",
+      "media": {
+        "id": "128006268",
+        "type": "PRODUCT",
+        "onImageHover": "FETCH_SECOND_IMAGE"
+      },
+      "mediaUrls": [
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43248453_1/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43248453_2/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43248453_3/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43248453_4/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43248453_5/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43248453_6/public"
+      ],
+      "discountBadge": {
+        "label": "-17%",
+        "styles": {
+          "backgroundColor": "#EB0029",
+          "textColor": "#ffffff"
+        }
+      },
+      "badges": [],
+      "multipurposeBadges": [],
+      "meatStickers": [],
+      "prices": [
+        {
+          "label": "",
+          "icons": "cmr-icon",
+          "symbol": "S/ ",
+          "type": "cmrPrice",
+          "crossed": false,
+          "price": [
+            "1,999"
+          ]
+        },
+        {
+          "label": "",
+          "icons": "",
+          "symbol": "S/ ",
+          "type": "internetPrice",
+          "crossed": false,
+          "price": [
+            "2,199"
+          ]
+        },
+        {
+          "label": "",
+          "icons": "",
+          "symbol": "S/ ",
+          "type": "normalPrice",
+          "crossed": true,
+          "price": [
+            "2,399"
+          ]
+        }
+      ],
+      "availability": {
+        "homeDeliveryShipping": "",
+        "pickUpFromStoreShipping": "",
+        "internationalShipping": "",
+        "primeShipping": ""
+      },
+      "variants": [
+        {
+          "type": "COLOR",
+          "options": []
+        },
+        {
+          "type": "SIZES",
+          "options": []
+        }
+      ],
+      "sellerId": "TOTTUS_PERU",
+      "sellerName": "TOTTUS",
+      "offeringId": "128006268",
+      "isSponsored": false,
+      "GSCCategoryId": "G19020305"
+    },
+    {
+      "productId": "125187208",
+      "skuId": "125187210",
+      "topSpecifications": [],
+      "merchantCategoryId": "J1104010403",
+      "displayName": "Laptop Lenovo Intel Core i3 12va 8GB 512GB 15\" Ideapad Slim3",
+      "productType": "REGULAR",
+      "viewTemplate": "NORMAL",
+      "url": "https://tottus.falabella.com.pe/tottus-pe/product/125187208/laptop-lenovo-ips3-15-ci3-12va-8gb-512ssd?exp=tottus",
+      "brand": "LENOVO",
+      "media": {
+        "id": "125187210",
+        "type": "PRODUCT",
+        "onImageHover": "FETCH_SECOND_IMAGE"
+      },
+      "mediaUrls": [
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43184817_1/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43184817_2/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43184817_3/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43184817_4/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43184817_5/public"
+      ],
+      "discountBadge": {
+        "label": "-24%",
+        "styles": {
+          "backgroundColor": "#EB0029",
+          "textColor": "#ffffff"
+        }
+      },
+      "badges": [],
+      "multipurposeBadges": [],
+      "meatStickers": [],
+      "prices": [
+        {
+          "label": "",
+          "icons": "cmr-icon",
+          "symbol": "S/ ",
+          "type": "cmrPrice",
+          "crossed": false,
+          "price": [
+            "1,449"
+          ]
+        },
+        {
+          "label": "",
+          "icons": "",
+          "symbol": "S/ ",
+          "type": "internetPrice",
+          "crossed": false,
+          "price": [
+            "1,499"
+          ]
+        },
+        {
+          "label": "",
+          "icons": "",
+          "symbol": "S/ ",
+          "type": "normalPrice",
+          "crossed": true,
+          "price": [
+            "1,899"
+          ]
+        }
+      ],
+      "totalReviews": "1",
+      "rating": "5",
+      "availability": {
+        "homeDeliveryShipping": "",
+        "pickUpFromStoreShipping": "",
+        "internationalShipping": "",
+        "primeShipping": ""
+      },
+      "variants": [
+        {
+          "type": "COLOR",
+          "options": []
+        },
+        {
+          "type": "SIZES",
+          "options": []
+        }
+      ],
+      "sellerId": "TOTTUS_PERU",
+      "sellerName": "TOTTUS",
+      "offeringId": "125187210",
+      "isSponsored": false,
+      "GSCCategoryId": "G19020305"
+    },
+    {
+      "productId": "115860242",
+      "skuId": "115860243",
+      "topSpecifications": [
+        "Procesador : Intel® Core™ i5 1235U 12.ª generación",
+        "Tamano de la pantalla : 15.6\"",
+        "Disco duro : 512 GB SSD",
+        "Nucleos del procesador : 10",
+        "Memoria ram : 8 GB"
+      ],
+      "merchantCategoryId": "J1104010403",
+      "displayName": "Laptop HP Intel Core i5 8GB 512GB 15.6\"",
+      "productType": "REGULAR",
+      "viewTemplate": "NORMAL",
+      "url": "https://tottus.falabella.com.pe/tottus-pe/product/115860242/laptop-hp-ci51235-8gb-512gb?exp=tottus",
+      "brand": "HP",
+      "media": {
+        "id": "115860243",
+        "type": "PRODUCT",
+        "onImageHover": "FETCH_SECOND_IMAGE"
+      },
+      "mediaUrls": [
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/42867156_1/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/42867156_2/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/42867156_3/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/42867156_4/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/42867156_5/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/42867156_6/public"
+      ],
+      "discountBadge": {
+        "label": "-13%",
+        "styles": {
+          "backgroundColor": "#EB0029",
+          "textColor": "#ffffff"
+        }
+      },
+      "badges": [],
+      "multipurposeBadges": [],
+      "meatStickers": [
+        {
+          "label": "Llega mañana",
+          "type": "next_day",
+          "styles": {
+            "backgroundColor": "#D7F0D9",
+            "textColor": "#155724"
+          }
+        }
+      ],
+      "prices": [
+        {
+          "label": "",
+          "icons": "cmr-icon",
+          "symbol": "S/ ",
+          "type": "cmrPrice",
+          "crossed": false,
+          "price": [
+            "1,999"
+          ]
+        },
+        {
+          "label": "",
+          "icons": "",
+          "symbol": "S/ ",
+          "type": "internetPrice",
+          "crossed": false,
+          "price": [
+            "2,039"
+          ]
+        },
+        {
+          "label": "",
+          "icons": "",
+          "symbol": "S/ ",
+          "type": "normalPrice",
+          "crossed": true,
+          "price": [
+            "2,299"
+          ]
+        }
+      ],
+      "totalReviews": "112",
+      "rating": "4.6964",
+      "availability": {
+        "homeDeliveryShipping": "",
+        "pickUpFromStoreShipping": "",
+        "internationalShipping": "",
+        "primeShipping": ""
+      },
+      "variants": [
+        {
+          "type": "COLOR",
+          "options": []
+        },
+        {
+          "type": "SIZES",
+          "options": []
+        }
+      ],
+      "sellerId": "TOTTUS_PERU",
+      "sellerName": "TOTTUS",
+      "offeringId": "115860243",
+      "isSponsored": false,
+      "GSCCategoryId": "G19020305"
+    },
+    {
+      "productId": "125187207",
+      "skuId": "125187209",
+      "topSpecifications": [],
+      "merchantCategoryId": "J1104010403",
+      "displayName": "Laptop Lenovo IPS3 15 CI5 12450H 12VA 8GB 512SSD",
+      "productType": "REGULAR",
+      "viewTemplate": "NORMAL",
+      "url": "https://tottus.falabella.com.pe/tottus-pe/product/125187207/laptop-lenovo-ips3-15-ci5-12450h-12va-8gb-512ssd?exp=tottus",
+      "brand": "LENOVO",
+      "media": {
+        "id": "125187209",
+        "type": "PRODUCT",
+        "onImageHover": "FETCH_SECOND_IMAGE"
+      },
+      "mediaUrls": [
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43184818_1/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43184818_2/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43184818_3/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43184818_4/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43184818_5/public"
+      ],
+      "discountBadge": {
+        "label": "-13%",
+        "styles": {
+          "backgroundColor": "#EB0029",
+          "textColor": "#ffffff"
+        }
+      },
+      "badges": [],
+      "multipurposeBadges": [],
+      "meatStickers": [],
+      "prices": [
+        {
+          "label": "",
+          "icons": "cmr-icon",
+          "symbol": "S/ ",
+          "type": "cmrPrice",
+          "crossed": false,
+          "price": [
+            "2,049"
+          ]
+        },
+        {
+          "label": "",
+          "icons": "",
+          "symbol": "S/ ",
+          "type": "internetPrice",
+          "crossed": false,
+          "price": [
+            "2,099"
+          ]
+        },
+        {
+          "label": "",
+          "icons": "",
+          "symbol": "S/ ",
+          "type": "normalPrice",
+          "crossed": true,
+          "price": [
+            "2,349"
+          ]
+        }
+      ],
+      "availability": {
+        "homeDeliveryShipping": "",
+        "pickUpFromStoreShipping": "",
+        "internationalShipping": "",
+        "primeShipping": ""
+      },
+      "variants": [
+        {
+          "type": "COLOR",
+          "options": []
+        },
+        {
+          "type": "SIZES",
+          "options": []
+        }
+      ],
+      "sellerId": "TOTTUS_PERU",
+      "sellerName": "TOTTUS",
+      "offeringId": "125187209",
+      "isSponsored": false,
+      "GSCCategoryId": "G19020305"
+    },
+    {
+      "productId": "127175353",
+      "skuId": "127175354",
+      "topSpecifications": [],
+      "merchantCategoryId": "J1104010403",
+      "displayName": "Laptop HP Victus AMD Ryzen 5 5600H 16GB 512GB 15.6\" RTX3050",
+      "productType": "REGULAR",
+      "viewTemplate": "NORMAL",
+      "url": "https://tottus.falabella.com.pe/tottus-pe/product/127175353/laptop-hp-victus-r5-5600h-16gb-512gb-rtx-3050?exp=tottus",
+      "brand": "HP",
+      "media": {
+        "id": "127175354",
+        "type": "PRODUCT",
+        "onImageHover": "FETCH_SECOND_IMAGE"
+      },
+      "mediaUrls": [
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43224248_1/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43224248_2/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43224248_3/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43224248_4/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43224248_5/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43224248_6/public"
+      ],
+      "discountBadge": {
+        "label": "-15%",
+        "styles": {
+          "backgroundColor": "#EB0029",
+          "textColor": "#ffffff"
+        }
+      },
+      "badges": [],
+      "multipurposeBadges": [],
+      "meatStickers": [],
+      "prices": [
+        {
+          "label": "",
+          "icons": "cmr-icon",
+          "symbol": "S/ ",
+          "type": "cmrPrice",
+          "crossed": false,
+          "price": [
+            "3,499"
+          ]
+        },
+        {
+          "label": "",
+          "icons": "",
+          "symbol": "S/ ",
+          "type": "internetPrice",
+          "crossed": false,
+          "price": [
+            "3,549"
+          ]
+        },
+        {
+          "label": "",
+          "icons": "",
+          "symbol": "S/ ",
+          "type": "normalPrice",
+          "crossed": true,
+          "price": [
+            "4,099"
+          ]
+        }
+      ],
+      "availability": {
+        "homeDeliveryShipping": "",
+        "pickUpFromStoreShipping": "",
+        "internationalShipping": "",
+        "primeShipping": ""
+      },
+      "variants": [
+        {
+          "type": "COLOR",
+          "options": []
+        },
+        {
+          "type": "SIZES",
+          "options": []
+        }
+      ],
+      "sellerId": "TOTTUS_PERU",
+      "sellerName": "TOTTUS",
+      "offeringId": "127175354",
+      "isSponsored": false,
+      "GSCCategoryId": "G19020305"
+    },
+    {
+      "productId": "120189466",
+      "skuId": "120189478",
+      "topSpecifications": [],
+      "merchantCategoryId": "J1104010403",
+      "displayName": "Laptop HP AMD Ryzen 7 7730U 16GB 512GB 15\"",
+      "productType": "REGULAR",
+      "viewTemplate": "NORMAL",
+      "url": "https://tottus.falabella.com.pe/tottus-pe/product/120189466/laptop-hp-r7-7730u-16gb-512gb?exp=tottus",
+      "brand": "HP",
+      "media": {
+        "id": "120189478",
+        "type": "PRODUCT",
+        "onImageHover": "FETCH_SECOND_IMAGE"
+      },
+      "mediaUrls": [
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43082026_1/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43082026_2/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43082026_3/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43082026_4/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43082026_5/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43082026_6/public"
+      ],
+      "discountBadge": {
+        "label": "-19%",
+        "styles": {
+          "backgroundColor": "#EB0029",
+          "textColor": "#ffffff"
+        }
+      },
+      "badges": [],
+      "multipurposeBadges": [],
+      "meatStickers": [],
+      "prices": [
+        {
+          "label": "",
+          "icons": "cmr-icon",
+          "symbol": "S/ ",
+          "type": "cmrPrice",
+          "crossed": false,
+          "price": [
+            "2,499"
+          ]
+        },
+        {
+          "label": "",
+          "icons": "",
+          "symbol": "S/ ",
+          "type": "internetPrice",
+          "crossed": false,
+          "price": [
+            "2,599"
+          ]
+        },
+        {
+          "label": "",
+          "icons": "",
+          "symbol": "S/ ",
+          "type": "normalPrice",
+          "crossed": true,
+          "price": [
+            "3,099"
+          ]
+        }
+      ],
+      "totalReviews": "1",
+      "rating": "5",
+      "availability": {
+        "homeDeliveryShipping": "",
+        "pickUpFromStoreShipping": "",
+        "internationalShipping": "",
+        "primeShipping": ""
+      },
+      "variants": [
+        {
+          "type": "COLOR",
+          "options": []
+        },
+        {
+          "type": "SIZES",
+          "options": []
+        }
+      ],
+      "sellerId": "TOTTUS_PERU",
+      "sellerName": "TOTTUS",
+      "offeringId": "120189478",
+      "isSponsored": false,
+      "GSCCategoryId": "G19020305"
+    },
+    {
+      "productId": "126862625",
+      "skuId": "126862628",
+      "topSpecifications": [],
+      "merchantCategoryId": "J1104010403",
+      "displayName": "Laptop Asus Vivobook 16 R7 7730U 512GSSD 16GB",
+      "productType": "REGULAR",
+      "viewTemplate": "NORMAL",
+      "url": "https://tottus.falabella.com.pe/tottus-pe/product/126862625/laptop-asus-16-r7-7730u-512gssd-16gb?exp=tottus",
+      "brand": "ASUS",
+      "media": {
+        "id": "126862628",
+        "type": "PRODUCT",
+        "onImageHover": "FETCH_SECOND_IMAGE"
+      },
+      "mediaUrls": [
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43216612_1/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43216612_2/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43216612_3/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43216612_4/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43216612_5/public"
+      ],
+      "discountBadge": {
+        "label": "-19%",
+        "styles": {
+          "backgroundColor": "#EB0029",
+          "textColor": "#ffffff"
+        }
+      },
+      "badges": [],
+      "multipurposeBadges": [],
+      "meatStickers": [],
+      "prices": [
+        {
+          "label": "",
+          "icons": "cmr-icon",
+          "symbol": "S/ ",
+          "type": "cmrPrice",
+          "crossed": false,
+          "price": [
+            "2,849"
+          ]
+        },
+        {
+          "label": "",
+          "icons": "",
+          "symbol": "S/ ",
+          "type": "internetPrice",
+          "crossed": false,
+          "price": [
+            "2,899"
+          ]
+        },
+        {
+          "label": "",
+          "icons": "",
+          "symbol": "S/ ",
+          "type": "normalPrice",
+          "crossed": true,
+          "price": [
+            "3,499"
+          ]
+        }
+      ],
+      "availability": {
+        "homeDeliveryShipping": "",
+        "pickUpFromStoreShipping": "",
+        "internationalShipping": "",
+        "primeShipping": ""
+      },
+      "variants": [
+        {
+          "type": "COLOR",
+          "options": []
+        },
+        {
+          "type": "SIZES",
+          "options": []
+        }
+      ],
+      "sellerId": "TOTTUS_PERU",
+      "sellerName": "TOTTUS",
+      "offeringId": "126862628",
+      "isSponsored": false,
+      "GSCCategoryId": "G19020305"
+    },
+    {
+      "productId": "125187213",
+      "skuId": "125187214",
+      "topSpecifications": [],
+      "merchantCategoryId": "J1104010403",
+      "displayName": "Laptop Lenovo IP1 15 R7 5700U 16GB 1TB SSD",
+      "productType": "REGULAR",
+      "viewTemplate": "NORMAL",
+      "url": "https://tottus.falabella.com.pe/tottus-pe/product/125187213/laptop-lenovo-ip1-15-r7-5700u-16gb-1tb-ssd?exp=tottus",
+      "brand": "LENOVO",
+      "media": {
+        "id": "125187214",
+        "type": "PRODUCT",
+        "onImageHover": "FETCH_SECOND_IMAGE"
+      },
+      "mediaUrls": [
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43184820_1/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43184820_2/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43184820_3/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43184820_4/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43184820_5/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43184820_6/public"
+      ],
+      "discountBadge": {
+        "label": "-16%",
+        "styles": {
+          "backgroundColor": "#EB0029",
+          "textColor": "#ffffff"
+        }
+      },
+      "badges": [],
+      "multipurposeBadges": [],
+      "meatStickers": [],
+      "prices": [
+        {
+          "label": "",
+          "icons": "cmr-icon",
+          "symbol": "S/ ",
+          "type": "cmrPrice",
+          "crossed": false,
+          "price": [
+            "2,349"
+          ]
+        },
+        {
+          "label": "",
+          "icons": "",
+          "symbol": "S/ ",
+          "type": "internetPrice",
+          "crossed": false,
+          "price": [
+            "2,399"
+          ]
+        },
+        {
+          "label": "",
+          "icons": "",
+          "symbol": "S/ ",
+          "type": "normalPrice",
+          "crossed": true,
+          "price": [
+            "2,799"
+          ]
+        }
+      ],
+      "availability": {
+        "homeDeliveryShipping": "",
+        "pickUpFromStoreShipping": "",
+        "internationalShipping": "",
+        "primeShipping": ""
+      },
+      "variants": [
+        {
+          "type": "COLOR",
+          "options": []
+        },
+        {
+          "type": "SIZES",
+          "options": []
+        }
+      ],
+      "sellerId": "TOTTUS_PERU",
+      "sellerName": "TOTTUS",
+      "offeringId": "125187214",
+      "isSponsored": false,
+      "GSCCategoryId": "G19020305"
+    },
+    {
+      "productId": "128773454",
+      "skuId": "128773455",
+      "topSpecifications": [],
+      "merchantCategoryId": "J1104010403",
+      "displayName": "Laptop Lenovo  LOQ 15 I5-12 8 512 V6G W11  CI5 12VA 8G 512G RTX3050",
+      "productType": "REGULAR",
+      "viewTemplate": "NORMAL",
+      "url": "https://tottus.falabella.com.pe/tottus-pe/product/128773454/laptop-lenovo-gamer-loq-ci5-12va-8g-512g-rtx3050?exp=tottus",
+      "brand": "LENOVO",
+      "media": {
+        "id": "128773455",
+        "type": "PRODUCT",
+        "onImageHover": "FETCH_SECOND_IMAGE"
+      },
+      "mediaUrls": [
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43265451_1/public"
+      ],
+      "badges": [],
+      "multipurposeBadges": [],
+      "meatStickers": [],
+      "prices": [
+        {
+          "label": "",
+          "icons": "",
+          "symbol": "S/ ",
+          "type": "internetPrice",
+          "crossed": false,
+          "price": [
+            "3,499"
+          ]
+        }
+      ],
+      "availability": {
+        "homeDeliveryShipping": "",
+        "pickUpFromStoreShipping": "",
+        "internationalShipping": "",
+        "primeShipping": ""
+      },
+      "variants": [
+        {
+          "type": "COLOR",
+          "options": []
+        },
+        {
+          "type": "SIZES",
+          "options": []
+        }
+      ],
+      "sellerId": "TOTTUS_PERU",
+      "sellerName": "TOTTUS",
+      "offeringId": "128773455",
+      "isSponsored": false,
+      "GSCCategoryId": "G19020305"
+    },
+    {
+      "productId": "130166966",
+      "skuId": "130166968",
+      "topSpecifications": [],
+      "merchantCategoryId": "J1104010403",
+      "displayName": "Laptop Lenovo LOQ 15.6\" FHD 144 Hz AMD Ryzen™ 7 7840HS 16GB ram 512GB SSD",
+      "productType": "REGULAR",
+      "viewTemplate": "NORMAL",
+      "url": "https://tottus.falabella.com.pe/tottus-pe/product/130166966/laptop-lenovo-loq-15-6-fhd-144-hz-amd-ryzen-7-7840hs-16gb-ram-512gb-ssd?exp=tottus",
+      "brand": "LENOVO",
+      "media": {
+        "id": "130166968",
+        "type": "PRODUCT",
+        "onImageHover": "FETCH_SECOND_IMAGE"
+      },
+      "mediaUrls": [
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43314988_1/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43314988_2/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43314988_3/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43314988_4/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43314988_5/public",
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/tottusPE/43314988_6/public"
+      ],
+      "discountBadge": {
+        "label": "-14%",
+        "styles": {
+          "backgroundColor": "#EB0029",
+          "textColor": "#ffffff"
+        }
+      },
+      "badges": [],
+      "multipurposeBadges": [],
+      "meatStickers": [],
+      "prices": [
+        {
+          "label": "",
+          "icons": "cmr-icon",
+          "symbol": "S/ ",
+          "type": "cmrPrice",
+          "crossed": false,
+          "price": [
+            "4,299"
+          ]
+        },
+        {
+          "label": "",
+          "icons": "",
+          "symbol": "S/ ",
+          "type": "internetPrice",
+          "crossed": false,
+          "price": [
+            "4,399"
+          ]
+        },
+        {
+          "label": "",
+          "icons": "",
+          "symbol": "S/ ",
+          "type": "normalPrice",
+          "crossed": true,
+          "price": [
+            "4,999"
+          ]
+        }
+      ],
+      "availability": {
+        "homeDeliveryShipping": "",
+        "pickUpFromStoreShipping": "",
+        "internationalShipping": "",
+        "primeShipping": ""
+      },
+      "variants": [
+        {
+          "type": "COLOR",
+          "options": []
+        },
+        {
+          "type": "SIZES",
+          "options": []
+        }
+      ],
+      "sellerId": "TOTTUS_PERU",
+      "sellerName": "TOTTUS",
+      "offeringId": "130166968",
+      "isSponsored": false,
+      "GSCCategoryId": "G19020305"
+    },
+    {
+      "productId": "128773492",
+      "skuId": "128773493",
+      "topSpecifications": [],
+      "merchantCategoryId": "J1104010403",
+      "displayName": "Laptop Gamer Lenovo LOQ CI5 12VA 8G 512G RTX2050",
+      "productType": "REGULAR",
+      "viewTemplate": "NORMAL",
+      "url": "https://tottus.falabella.com.pe/tottus-pe/product/128773492/laptop-gamer-lenovo-loq-ci5-12va-8g-512g-rtx2050?exp=tottus",
+      "brand": "LENOVO",
+      "media": {
+        "id": "128773493",
+        "type": "PRODUCT",
+        "onImageHover": "FETCH_SECOND_IMAGE"
+      },
+      "mediaUrls": [
+        "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/FalabellaPEAndCO/NoImage/public"
+      ],
+      "badges": [],
+      "multipurposeBadges": [],
+      "meatStickers": [],
+      "prices": [
+        {
+          "label": "",
+          "icons": "",
+          "symbol": "S/ ",
+          "type": "internetPrice",
+          "crossed": false,
+          "price": [
+            "3,099"
+          ]
+        }
+      ],
+      "availability": {
+        "homeDeliveryShipping": "",
+        "pickUpFromStoreShipping": "",
+        "internationalShipping": "",
+        "primeShipping": ""
+      },
+      "variants": [
+        {
+          "type": "COLOR",
+          "options": []
+        },
+        {
+          "type": "SIZES",
+          "options": []
+        }
+      ],
+      "sellerId": "TOTTUS_PERU",
+      "sellerName": "TOTTUS",
+      "offeringId": "128773493",
+      "isSponsored": false,
+      "GSCCategoryId": "G19020305"
+    }
+  ],
+  "layout": {
+    "desktop": {
+      "view": "4_GRID"
+    },
+    "mobile": {
+      "view": "2_GRID"
+    }
+  },
+  "facets": [
+    {
+      "name": "Marca",
+      "type": "MULTI_SELECT",
+      "displayType": "GLOBAL",
+      "state": "CLOSED",
+      "isSearchable": true,
+      "maxValuesVisible": 5,
+      "order": 4,
+      "values": [
+        {
+          "count": 3,
+          "facetType": "f.product.brandName",
+          "facetValue": "asus",
+          "selected": false,
+          "title": "asus",
+          "url": "f.product.brandName=asus&store=tottus&subdomain=tottus",
+          "filters": [
+            {
+              "name": "f.product.brandName",
+              "value": "asus"
+            },
+            {
+              "name": "store",
+              "value": "tottus"
+            },
+            {
+              "name": "subdomain",
+              "value": "tottus"
+            }
+          ]
+        },
+        {
+          "count": 5,
+          "facetType": "f.product.brandName",
+          "facetValue": "hp",
+          "selected": false,
+          "title": "hp",
+          "url": "f.product.brandName=hp&store=tottus&subdomain=tottus",
+          "filters": [
+            {
+              "name": "f.product.brandName",
+              "value": "hp"
+            },
+            {
+              "name": "store",
+              "value": "tottus"
+            },
+            {
+              "name": "subdomain",
+              "value": "tottus"
+            }
+          ]
+        },
+        {
+          "count": 7,
+          "facetType": "f.product.brandName",
+          "facetValue": "lenovo",
+          "selected": false,
+          "title": "lenovo",
+          "url": "f.product.brandName=lenovo&store=tottus&subdomain=tottus",
+          "filters": [
+            {
+              "name": "f.product.brandName",
+              "value": "lenovo"
+            },
+            {
+              "name": "store",
+              "value": "tottus"
+            },
+            {
+              "name": "subdomain",
+              "value": "tottus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Precio",
+      "type": "MULTI_SELECT_WITH_RANGE",
+      "displayType": "GLOBAL",
+      "state": "CLOSED",
+      "isSearchable": false,
+      "maxValuesVisible": 5,
+      "order": 5,
+      "values": [
+        {
+          "count": 5,
+          "facetType": "f.range.derived.price.search",
+          "facetValue": "S/ 1.000 - S/ 2.0000",
+          "selected": false,
+          "title": "S/ 1.000 - S/ 2.0000",
+          "url": "f.range.derived.price.search=S%2F+1.000+-+S%2F+2.0000&store=tottus&subdomain=tottus",
+          "filters": [
+            {
+              "name": "f.range.derived.price.search",
+              "value": "S%2F+1.000+-+S%2F+2.0000"
+            },
+            {
+              "name": "store",
+              "value": "tottus"
+            },
+            {
+              "name": "subdomain",
+              "value": "tottus"
+            }
+          ]
+        },
+        {
+          "count": 10,
+          "facetType": "f.range.derived.price.search",
+          "facetValue": "S/ 2.000 - S/ 5.0000",
+          "selected": false,
+          "title": "S/ 2.000 - S/ 5.0000",
+          "url": "f.range.derived.price.search=S%2F+2.000+-+S%2F+5.0000&store=tottus&subdomain=tottus",
+          "filters": [
+            {
+              "name": "f.range.derived.price.search",
+              "value": "S%2F+2.000+-+S%2F+5.0000"
+            },
+            {
+              "name": "store",
+              "value": "tottus"
+            },
+            {
+              "name": "subdomain",
+              "value": "tottus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Calificación del producto",
+      "type": "MULTI_SELECT_WITH_RATINGS",
+      "displayType": "GLOBAL",
+      "state": "CLOSED",
+      "isSearchable": false,
+      "maxValuesVisible": 5,
+      "order": 6,
+      "values": [
+        {
+          "count": 3,
+          "facetType": "f.range.product.averageOverallRating",
+          "facetValue": "5",
+          "selected": false,
+          "title": "5",
+          "url": "f.range.product.averageOverallRating=5&store=tottus&subdomain=tottus",
+          "filters": [
+            {
+              "name": "f.range.product.averageOverallRating",
+              "value": "5"
+            },
+            {
+              "name": "store",
+              "value": "tottus"
+            },
+            {
+              "name": "subdomain",
+              "value": "tottus"
+            }
+          ]
+        },
+        {
+          "count": 1,
+          "facetType": "f.range.product.averageOverallRating",
+          "facetValue": "4",
+          "selected": false,
+          "title": "4",
+          "url": "f.range.product.averageOverallRating=4&store=tottus&subdomain=tottus",
+          "filters": [
+            {
+              "name": "f.range.product.averageOverallRating",
+              "value": "4"
+            },
+            {
+              "name": "store",
+              "value": "tottus"
+            },
+            {
+              "name": "subdomain",
+              "value": "tottus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Descuentos",
+      "type": "SINGLE_SELECT",
+      "displayType": "GLOBAL",
+      "state": "OPEN",
+      "isSearchable": false,
+      "maxValuesVisible": 5,
+      "order": 34,
+      "values": [
+        {
+          "count": 5,
+          "facetType": "f.range.derived.variant.discount",
+          "facetValue": "20% dcto y más",
+          "selected": false,
+          "title": "20% dcto y más",
+          "url": "f.range.derived.variant.discount=20%25+dcto+y+m%C3%A1s&store=tottus&subdomain=tottus",
+          "filters": [
+            {
+              "name": "f.range.derived.variant.discount",
+              "value": "20%25+dcto+y+m%C3%A1s"
+            },
+            {
+              "name": "store",
+              "value": "tottus"
+            },
+            {
+              "name": "subdomain",
+              "value": "tottus"
+            }
+          ]
+        },
+        {
+          "count": 1,
+          "facetType": "f.range.derived.variant.discount",
+          "facetValue": "30% dcto y más",
+          "selected": false,
+          "title": "30% dcto y más",
+          "url": "f.range.derived.variant.discount=30%25+dcto+y+m%C3%A1s&store=tottus&subdomain=tottus",
+          "filters": [
+            {
+              "name": "f.range.derived.variant.discount",
+              "value": "30%25+dcto+y+m%C3%A1s"
+            },
+            {
+              "name": "store",
+              "value": "tottus"
+            },
+            {
+              "name": "subdomain",
+              "value": "tottus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tipo",
+      "type": "MULTI_SELECT",
+      "displayType": "DYNAMIC",
+      "state": "CLOSED",
+      "isSearchable": true,
+      "maxValuesVisible": 5,
+      "order": 103,
+      "values": [
+        {
+          "count": 5,
+          "facetType": "f.product.attribute.Tipo",
+          "facetValue": "gamers",
+          "selected": false,
+          "title": "gamers",
+          "url": "f.product.attribute.Tipo=gamers&store=tottus&subdomain=tottus",
+          "filters": [
+            {
+              "name": "f.product.attribute.Tipo",
+              "value": "gamers"
+            },
+            {
+              "name": "store",
+              "value": "tottus"
+            },
+            {
+              "name": "subdomain",
+              "value": "tottus"
+            }
+          ]
+        },
+        {
+          "count": 4,
+          "facetType": "f.product.attribute.Tipo",
+          "facetValue": "notebook",
+          "selected": false,
+          "title": "notebook",
+          "url": "f.product.attribute.Tipo=notebook&store=tottus&subdomain=tottus",
+          "filters": [
+            {
+              "name": "f.product.attribute.Tipo",
+              "value": "notebook"
+            },
+            {
+              "name": "store",
+              "value": "tottus"
+            },
+            {
+              "name": "subdomain",
+              "value": "tottus"
+            }
+          ]
+        },
+        {
+          "count": 4,
+          "facetType": "f.product.attribute.Tipo",
+          "facetValue": "notebooks",
+          "selected": false,
+          "title": "notebooks",
+          "url": "f.product.attribute.Tipo=notebooks&store=tottus&subdomain=tottus",
+          "filters": [
+            {
+              "name": "f.product.attribute.Tipo",
+              "value": "notebooks"
+            },
+            {
+              "name": "store",
+              "value": "tottus"
+            },
+            {
+              "name": "subdomain",
+              "value": "tottus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Procesador",
+      "type": "MULTI_SELECT",
+      "displayType": "DYNAMIC",
+      "state": "CLOSED",
+      "isSearchable": true,
+      "maxValuesVisible": 5,
+      "order": 1001,
+      "values": [
+        {
+          "count": 3,
+          "facetType": "f.product.attribute.Procesador",
+          "facetValue": "amd ryzen 5",
+          "selected": false,
+          "title": "amd ryzen 5",
+          "url": "f.product.attribute.Procesador=amd+ryzen+5&store=tottus&subdomain=tottus",
+          "filters": [
+            {
+              "name": "f.product.attribute.Procesador",
+              "value": "amd+ryzen+5"
+            },
+            {
+              "name": "store",
+              "value": "tottus"
+            },
+            {
+              "name": "subdomain",
+              "value": "tottus"
+            }
+          ]
+        },
+        {
+          "count": 2,
+          "facetType": "f.product.attribute.Procesador",
+          "facetValue": "amd ryzen 7",
+          "selected": false,
+          "title": "amd ryzen 7",
+          "url": "f.product.attribute.Procesador=amd+ryzen+7&store=tottus&subdomain=tottus",
+          "filters": [
+            {
+              "name": "f.product.attribute.Procesador",
+              "value": "amd+ryzen+7"
+            },
+            {
+              "name": "store",
+              "value": "tottus"
+            },
+            {
+              "name": "subdomain",
+              "value": "tottus"
+            }
+          ]
+        },
+        {
+          "count": 2,
+          "facetType": "f.product.attribute.Procesador",
+          "facetValue": "intel core i5",
+          "selected": false,
+          "title": "intel core i5",
+          "url": "f.product.attribute.Procesador=intel+core+i5&store=tottus&subdomain=tottus",
+          "filters": [
+            {
+              "name": "f.product.attribute.Procesador",
+              "value": "intel+core+i5"
+            },
+            {
+              "name": "store",
+              "value": "tottus"
+            },
+            {
+              "name": "subdomain",
+              "value": "tottus"
+            }
+          ]
+        },
+        {
+          "count": 1,
+          "facetType": "f.product.attribute.Procesador",
+          "facetValue": "intel core i3",
+          "selected": false,
+          "title": "intel core i3",
+          "url": "f.product.attribute.Procesador=intel+core+i3&store=tottus&subdomain=tottus",
+          "filters": [
+            {
+              "name": "f.product.attribute.Procesador",
+              "value": "intel+core+i3"
+            },
+            {
+              "name": "store",
+              "value": "tottus"
+            },
+            {
+              "name": "subdomain",
+              "value": "tottus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tamaño de la pantalla",
+      "type": "MULTI_SELECT",
+      "displayType": "DYNAMIC",
+      "state": "CLOSED",
+      "isSearchable": false,
+      "maxValuesVisible": 5,
+      "order": 1007,
+      "values": [
+        {
+          "count": 9,
+          "facetType": "f.derived.product.Tamano_de_la_pantalla",
+          "facetValue": "15,6",
+          "selected": false,
+          "title": "15,6",
+          "url": "f.derived.product.Tamano_de_la_pantalla=15%2C6&store=tottus&subdomain=tottus",
+          "filters": [
+            {
+              "name": "f.derived.product.Tamano_de_la_pantalla",
+              "value": "15%2C6"
+            },
+            {
+              "name": "store",
+              "value": "tottus"
+            },
+            {
+              "name": "subdomain",
+              "value": "tottus"
+            }
+          ]
+        },
+        {
+          "count": 3,
+          "facetType": "f.derived.product.Tamano_de_la_pantalla",
+          "facetValue": "15",
+          "selected": false,
+          "title": "15",
+          "url": "f.derived.product.Tamano_de_la_pantalla=15&store=tottus&subdomain=tottus",
+          "filters": [
+            {
+              "name": "f.derived.product.Tamano_de_la_pantalla",
+              "value": "15"
+            },
+            {
+              "name": "store",
+              "value": "tottus"
+            },
+            {
+              "name": "subdomain",
+              "value": "tottus"
+            }
+          ]
+        },
+        {
+          "count": 1,
+          "facetType": "f.derived.product.Tamano_de_la_pantalla",
+          "facetValue": "14",
+          "selected": false,
+          "title": "14",
+          "url": "f.derived.product.Tamano_de_la_pantalla=14&store=tottus&subdomain=tottus",
+          "filters": [
+            {
+              "name": "f.derived.product.Tamano_de_la_pantalla",
+              "value": "14"
+            },
+            {
+              "name": "store",
+              "value": "tottus"
+            },
+            {
+              "name": "subdomain",
+              "value": "tottus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Condición del producto",
+      "type": "MULTI_SELECT",
+      "displayType": "DYNAMIC",
+      "state": "CLOSED",
+      "isSearchable": false,
+      "maxValuesVisible": 5,
+      "order": 1008,
+      "values": [
+        {
+          "count": 10,
+          "facetType": "f.product.attribute.Condicion_del_producto",
+          "facetValue": "nuevo",
+          "selected": false,
+          "title": "nuevo",
+          "url": "f.product.attribute.Condicion_del_producto=nuevo&store=tottus&subdomain=tottus",
+          "filters": [
+            {
+              "name": "f.product.attribute.Condicion_del_producto",
+              "value": "nuevo"
+            },
+            {
+              "name": "store",
+              "value": "tottus"
+            },
+            {
+              "name": "subdomain",
+              "value": "tottus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Resolución de pantalla",
+      "type": "MULTI_SELECT",
+      "displayType": "DYNAMIC",
+      "state": "CLOSED",
+      "isSearchable": false,
+      "maxValuesVisible": 5,
+      "order": 1010,
+      "values": [
+        {
+          "count": 1,
+          "facetType": "f.product.attribute.Resolución_de_pantalla",
+          "facetValue": "1920x1080",
+          "selected": false,
+          "title": "1920x1080",
+          "url": "f.product.attribute.Resolución_de_pantalla=1920x1080&store=tottus&subdomain=tottus",
+          "filters": [
+            {
+              "name": "f.product.attribute.Resolución_de_pantalla",
+              "value": "1920x1080"
+            },
+            {
+              "name": "store",
+              "value": "tottus"
+            },
+            {
+              "name": "subdomain",
+              "value": "tottus"
+            }
+          ]
+        },
+        {
+          "count": 7,
+          "facetType": "f.product.attribute.Resolución_de_pantalla",
+          "facetValue": "fhd (1.920 x 1.080)",
+          "selected": false,
+          "title": "fhd (1.920 x 1.080)",
+          "url": "f.product.attribute.Resolución_de_pantalla=fhd+(1.920+x+1.080)&store=tottus&subdomain=tottus",
+          "filters": [
+            {
+              "name": "f.product.attribute.Resolución_de_pantalla",
+              "value": "fhd+(1.920+x+1.080)"
+            },
+            {
+              "name": "store",
+              "value": "tottus"
+            },
+            {
+              "name": "subdomain",
+              "value": "tottus"
+            }
+          ]
+        },
+        {
+          "count": 1,
+          "facetType": "f.product.attribute.Resolución_de_pantalla",
+          "facetValue": "hd (1.366 x 768)",
+          "selected": false,
+          "title": "hd (1.366 x 768)",
+          "url": "f.product.attribute.Resolución_de_pantalla=hd+(1.366+x+768)&store=tottus&subdomain=tottus",
+          "filters": [
+            {
+              "name": "f.product.attribute.Resolución_de_pantalla",
+              "value": "hd+(1.366+x+768)"
+            },
+            {
+              "name": "store",
+              "value": "tottus"
+            },
+            {
+              "name": "subdomain",
+              "value": "tottus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cantidad de puertos USB",
+      "type": "MULTI_SELECT",
+      "displayType": "DYNAMIC",
+      "state": "CLOSED",
+      "isSearchable": false,
+      "maxValuesVisible": 5,
+      "order": 1011,
+      "values": [
+        {
+          "count": 10,
+          "facetType": "f.product.attribute.Cantidad_de_puertos_USB",
+          "facetValue": "3",
+          "selected": false,
+          "title": "3",
+          "url": "f.product.attribute.Cantidad_de_puertos_USB=3&store=tottus&subdomain=tottus",
+          "filters": [
+            {
+              "name": "f.product.attribute.Cantidad_de_puertos_USB",
+              "value": "3"
+            },
+            {
+              "name": "store",
+              "value": "tottus"
+            },
+            {
+              "name": "subdomain",
+              "value": "tottus"
+            }
+          ]
+        },
+        {
+          "count": 2,
+          "facetType": "f.product.attribute.Cantidad_de_puertos_USB",
+          "facetValue": "4",
+          "selected": false,
+          "title": "4",
+          "url": "f.product.attribute.Cantidad_de_puertos_USB=4&store=tottus&subdomain=tottus",
+          "filters": [
+            {
+              "name": "f.product.attribute.Cantidad_de_puertos_USB",
+              "value": "4"
+            },
+            {
+              "name": "store",
+              "value": "tottus"
+            },
+            {
+              "name": "subdomain",
+              "value": "tottus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sistema operativo",
+      "type": "MULTI_SELECT",
+      "displayType": "DYNAMIC",
+      "state": "CLOSED",
+      "isSearchable": false,
+      "maxValuesVisible": 5,
+      "order": 1092,
+      "values": [
+        {
+          "count": 4,
+          "facetType": "f.product.attribute.Sistema_operativo",
+          "facetValue": "windows 11 home",
+          "selected": false,
+          "title": "windows 11 home",
+          "url": "f.product.attribute.Sistema_operativo=windows+11+home&store=tottus&subdomain=tottus",
+          "filters": [
+            {
+              "name": "f.product.attribute.Sistema_operativo",
+              "value": "windows+11+home"
+            },
+            {
+              "name": "store",
+              "value": "tottus"
+            },
+            {
+              "name": "subdomain",
+              "value": "tottus"
+            }
+          ]
+        },
+        {
+          "count": 3,
+          "facetType": "f.product.attribute.Sistema_operativo",
+          "facetValue": "windows",
+          "selected": false,
+          "title": "windows",
+          "url": "f.product.attribute.Sistema_operativo=windows&store=tottus&subdomain=tottus",
+          "filters": [
+            {
+              "name": "f.product.attribute.Sistema_operativo",
+              "value": "windows"
+            },
+            {
+              "name": "store",
+              "value": "tottus"
+            },
+            {
+              "name": "subdomain",
+              "value": "tottus"
+            }
+          ]
+        },
+        {
+          "count": 3,
+          "facetType": "f.product.attribute.Sistema_operativo",
+          "facetValue": "windows 11",
+          "selected": false,
+          "title": "windows 11",
+          "url": "f.product.attribute.Sistema_operativo=windows+11&store=tottus&subdomain=tottus",
+          "filters": [
+            {
+              "name": "f.product.attribute.Sistema_operativo",
+              "value": "windows+11"
+            },
+            {
+              "name": "store",
+              "value": "tottus"
+            },
+            {
+              "name": "subdomain",
+              "value": "tottus"
+            }
+          ]
+        },
+        {
+          "count": 2,
+          "facetType": "f.product.attribute.Sistema_operativo",
+          "facetValue": "windows 11 home single language.",
+          "selected": false,
+          "title": "windows 11 home single language.",
+          "url": "f.product.attribute.Sistema_operativo=windows+11+home+single+language.&store=tottus&subdomain=tottus",
+          "filters": [
+            {
+              "name": "f.product.attribute.Sistema_operativo",
+              "value": "windows+11+home+single+language."
+            },
+            {
+              "name": "store",
+              "value": "tottus"
+            },
+            {
+              "name": "subdomain",
+              "value": "tottus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Núcleos del procesador",
+      "type": "MULTI_SELECT",
+      "displayType": "DYNAMIC",
+      "state": "CLOSED",
+      "isSearchable": false,
+      "maxValuesVisible": 5,
+      "order": 1102,
+      "values": [
+        {
+          "count": 3,
+          "facetType": "f.product.attribute.Núcleos_del_procesador",
+          "facetValue": "hexa core",
+          "selected": false,
+          "title": "hexa core",
+          "url": "f.product.attribute.Núcleos_del_procesador=hexa+core&store=tottus&subdomain=tottus",
+          "filters": [
+            {
+              "name": "f.product.attribute.Núcleos_del_procesador",
+              "value": "hexa+core"
+            },
+            {
+              "name": "store",
+              "value": "tottus"
+            },
+            {
+              "name": "subdomain",
+              "value": "tottus"
+            }
+          ]
+        },
+        {
+          "count": 5,
+          "facetType": "f.product.attribute.Núcleos_del_procesador",
+          "facetValue": "octa core",
+          "selected": false,
+          "title": "octa core",
+          "url": "f.product.attribute.Núcleos_del_procesador=octa+core&store=tottus&subdomain=tottus",
+          "filters": [
+            {
+              "name": "f.product.attribute.Núcleos_del_procesador",
+              "value": "octa+core"
+            },
+            {
+              "name": "store",
+              "value": "tottus"
+            },
+            {
+              "name": "subdomain",
+              "value": "tottus"
+            }
+          ]
+        },
+        {
+          "count": 1,
+          "facetType": "f.product.attribute.Núcleos_del_procesador",
+          "facetValue": "quad core",
+          "selected": false,
+          "title": "quad core",
+          "url": "f.product.attribute.Núcleos_del_procesador=quad+core&store=tottus&subdomain=tottus",
+          "filters": [
+            {
+              "name": "f.product.attribute.Núcleos_del_procesador",
+              "value": "quad+core"
+            },
+            {
+              "name": "store",
+              "value": "tottus"
+            },
+            {
+              "name": "subdomain",
+              "value": "tottus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Memoria RAM",
+      "type": "MULTI_SELECT",
+      "displayType": "DYNAMIC",
+      "state": "CLOSED",
+      "isSearchable": false,
+      "maxValuesVisible": 5,
+      "order": 1107,
+      "values": [
+        {
+          "count": 6,
+          "facetType": "f.derived.product.Memoria_RAM",
+          "facetValue": "8 GB",
+          "selected": false,
+          "title": "8 GB",
+          "url": "f.derived.product.Memoria_RAM=8+GB&store=tottus&subdomain=tottus",
+          "filters": [
+            {
+              "name": "f.derived.product.Memoria_RAM",
+              "value": "8+GB"
+            },
+            {
+              "name": "store",
+              "value": "tottus"
+            },
+            {
+              "name": "subdomain",
+              "value": "tottus"
+            }
+          ]
+        },
+        {
+          "count": 6,
+          "facetType": "f.derived.product.Memoria_RAM",
+          "facetValue": "16 GB",
+          "selected": false,
+          "title": "16 GB",
+          "url": "f.derived.product.Memoria_RAM=16+GB&store=tottus&subdomain=tottus",
+          "filters": [
+            {
+              "name": "f.derived.product.Memoria_RAM",
+              "value": "16+GB"
+            },
+            {
+              "name": "store",
+              "value": "tottus"
+            },
+            {
+              "name": "subdomain",
+              "value": "tottus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Capacidad",
+      "type": "MULTI_SELECT",
+      "displayType": "DYNAMIC",
+      "state": "CLOSED",
+      "isSearchable": false,
+      "maxValuesVisible": 5,
+      "order": 1119,
+      "values": [
+        {
+          "count": 1,
+          "facetType": "f.product.attribute.Capacidad_de_almacenamiento",
+          "facetValue": "256gb",
+          "selected": false,
+          "title": "256gb",
+          "url": "f.product.attribute.Capacidad_de_almacenamiento=256gb&store=tottus&subdomain=tottus",
+          "filters": [
+            {
+              "name": "f.product.attribute.Capacidad_de_almacenamiento",
+              "value": "256gb"
+            },
+            {
+              "name": "store",
+              "value": "tottus"
+            },
+            {
+              "name": "subdomain",
+              "value": "tottus"
+            }
+          ]
+        },
+        {
+          "count": 10,
+          "facetType": "f.product.attribute.Capacidad_de_almacenamiento",
+          "facetValue": "512gb",
+          "selected": false,
+          "title": "512gb",
+          "url": "f.product.attribute.Capacidad_de_almacenamiento=512gb&store=tottus&subdomain=tottus",
+          "filters": [
+            {
+              "name": "f.product.attribute.Capacidad_de_almacenamiento",
+              "value": "512gb"
+            },
+            {
+              "name": "store",
+              "value": "tottus"
+            },
+            {
+              "name": "subdomain",
+              "value": "tottus"
+            }
+          ]
+        },
+        {
+          "count": 1,
+          "facetType": "f.product.attribute.Capacidad_de_almacenamiento",
+          "facetValue": "512gb ssd",
+          "selected": false,
+          "title": "512gb ssd",
+          "url": "f.product.attribute.Capacidad_de_almacenamiento=512gb+ssd&store=tottus&subdomain=tottus",
+          "filters": [
+            {
+              "name": "f.product.attribute.Capacidad_de_almacenamiento",
+              "value": "512gb+ssd"
+            },
+            {
+              "name": "store",
+              "value": "tottus"
+            },
+            {
+              "name": "subdomain",
+              "value": "tottus"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "baseFacetsURL": "",
+  "appliedFacets": [],
+  "searchTerm": "Laptops",
+  "pagination": {
+    "count": 15,
+    "perPage": 48,
+    "totalPerPage": 15,
+    "currentPage": 1
+  },
+  "sortOptions": [
+    {
+      "label": "Precio de menor a mayor",
+      "selected": false,
+      "url": "sortBy=derived.price.search%2Casc&store=tottus&subdomain=tottus"
+    },
+    {
+      "label": "Precio de mayor a menor",
+      "selected": false,
+      "url": "sortBy=derived.price.search%2Cdesc&store=tottus&subdomain=tottus"
+    },
+    {
+      "label": "Marca",
+      "selected": false,
+      "url": "sortBy=product.brandName%2Casc&store=tottus&subdomain=tottus"
+    },
+    {
+      "label": "Los mejores evaluados",
+      "selected": false,
+      "url": "sortBy=product.averageOverallRating%2Cdesc&store=tottus&subdomain=tottus"
+    },
+    {
+      "label": "Recomendados",
+      "selected": true,
+      "url": "sortBy=_score%2Cdesc&store=tottus&subdomain=tottus"
+    }
+  ],
+  "autoCorrections": [],
+  "availabilityFacets": [],
+  "currentLocationId": "799c102f-9b4c-44be-a421-23e366a63b82",
+  "site": "falabella-pe",
+  "categoryParentDetails": [
+    {
+      "id": "cat40712",
+      "label": "Laptops",
+      "link": "/category/cat40712/Laptops",
+      "isCurrent": false,
+      "isRoot": true
+    },
+    {
+      "id": "cat50678",
+      "label": "Computadoras",
+      "link": "/category/cat50678/Computadoras",
+      "isCurrent": false,
+      "isRoot": false
+    }
+  ],
+  "breadCrumbData": [
+    {
+      "id": "cat40712",
+      "label": "Laptops",
+      "link": "/category/cat40712/Laptops",
+      "isCurrent": false,
+      "isRoot": true
+    },
+    {
+      "id": "cat50678",
+      "label": "Tecnología-Computadoras",
+      "link": "/category/cat50678/Computadoras",
+      "isCurrent": false,
+      "isRoot": false
+    }
+  ],
+  "metadata": {
+    "id": "cat40712",
+    "displayName": "Laptops",
+    "title": "Laptops con ofertas increíbles | Tottus Peru",
+    "description": "Encuentra lo mejor en Laptops que tenemos para ti en Tottus Peru, aprovecha nuestros precios bajos y compra de manera fácil y segura."
+  },
+  "categoryBannerHtml": "",
+  "leftPromotionContent": "<p><strong>LAPTOPS EN OFERTA - TOTTUS</strong></p><p>¿Buscas una laptop para trabajar, estudiar o para entretenerte? ¡Tottus es el lugar ideal para comprar la laptop perfecta para ti! Tenemos las mejores marcas de laptops, como laptop HP, Lenovo, Asus, Dell y muchas más. Nuestras laptops tienen una gran variedad de características, como pantallas táctiles, procesadores de última generación, almacenamiento de gran capacidad, laptops gamers y mucho más. Encuentra tu laptop en Tottus a un preciazo. ¡No esperes más y elige tu próxima portátil!</p>",
+  "canonicalUrl": "https://tottus.falabella.com.pe/tottus-pe/category/cat40712/Laptops",
+  "currentUrl": "/falabella-pe/category/cat40712/Laptops?subdomain=tottus",
+  "isCatSodimacFaviconExp": false
+}

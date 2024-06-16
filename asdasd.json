@@ -1,0 +1,48 @@
+{
+  "@context": "http://schema.org",
+  "@type": "ItemList",
+  "url": "http://simple.ripley.com.pe/tecnologia/computacion/laptops?s=mdco&source=menu",
+  "itemListOrder": "http://schema.org/ItemListOrderDescending",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": "1",
+      "item": {
+        "@type": "Product",
+        "name": "LAPTOP GAMER HP VICTUS 15-FA0007LA INTEL CORE I7 12VA 10 NUCLEOS 16GB RAM 512GB SSD RTX 3050 15.6\" FHD 144 HZ  WINDOWS 11",
+        "image": "//home.ripley.com.pe/Attachment/WOP_5/2004326210660/2004326210660_2.jpg",
+        "sku": "2004326210660P",
+        "url": "http://simple.ripley.com.pe/tecnologia/computacion/laptops?s=mdco&source=menu#2004326210660P",
+        "brand": "HP",
+        "offers": {
+          "@type": "Offer",
+          "availability": "http://schema.org/InStock",
+          "price": 4399,
+          "sale_price": 4099,
+          "priceCurrency": "PEN",
+          "url": "http://simple.ripley.com.pe/tecnologia/computacion/laptops?s=mdco&source=menu#2004326210660P"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": "2",
+      "item": {
+        "@type": "Product",
+        "name": "LAPTOP HP VICTUS GAMER 15-FB0125LA AMD RYZEN 7 5800H 16GB NVIDIA GEFORCE RTX 3050 GPU (4 GB GDDR6 DEDICATED) 512GB SSD 15.6\" FHD WINDOWS 11",
+        "image": "//home.ripley.com.pe/Attachment/WOP_5/2004314434481/2004314434481_2.jpg",
+        "sku": "2004314434481P",
+        "url": "http://simple.ripley.com.pe/tecnologia/computacion/laptops?s=mdco&source=menu#2004314434481P",
+        "brand": "HP",
+        "offers": {
+          "@type": "Offer",
+          "availability": "http://schema.org/InStock",
+          "price": 4499,
+          "sale_price": 3599,
+          "priceCurrency": "PEN",
+          "url": "http://simple.ripley.com.pe/tecnologia/computacion/laptops?s=mdco&source=menu#2004314434481P"
+        }
+      }
+    }
+  ]
+}

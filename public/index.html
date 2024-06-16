@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Catálogo de Productos</title>
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Catálogo de Productos</h1>
+      <div id="filter-container">
+        <label for="category-select">Filtrar por categoría:</label>
+        <select id="category-select">
+          <option value="all">Todas</option>
+          <option value="laptops">Laptops</option>
+          <option value="computo">Computadoras</option>
+          <option value="tv">Televisores</option>
+          <option value="refrigeradoras">Refrigeradoras</option>
+          <option value="cocina">Cocina</option>
+          <option value="electrodomesticos">Electrodomésticos</option>
+          <option value="lavado">Lavado</option>
+        </select>
+      </div>
+      <div id="sort-container">
+        <label for="sort-select">Ordenar por:</label>
+        <select id="sort-select">
+          <option value="default">Por defecto</option>
+          <option value="price-asc">Precio: Menor a Mayor</option>
+          <option value="price-desc">Precio: Mayor a Menor</option>
+        </select>
+      </div>
+    </header>
+    <main id="product-container"></main>
+
+    <footer>
+      <p>&copy; Soluciones GAAA</p>
+    </footer>
+    <script src="js/main.js"></script>
+  </body>
+</html>
